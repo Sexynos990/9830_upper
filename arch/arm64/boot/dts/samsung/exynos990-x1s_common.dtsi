@@ -32,7 +32,7 @@
 			fixed-rate-clocks {
 				oscclk {
 					compatible = "samsung,exynos9830-oscclk";
-					clock-frequency = <26000000>;
+					clock-frequency = <36000000>;
 				};
 			};
 
